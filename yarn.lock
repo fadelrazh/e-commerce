@@ -2196,6 +2196,11 @@
     "@types/mime" "*"
     "@types/node" "*"
 
+"@types/serviceworker@^0.0.79":
+  version "0.0.79"
+  resolved "https://registry.yarnpkg.com/@types/serviceworker/-/serviceworker-0.0.79.tgz#f876798f6c8405c278556c6a0e0cfb009c60c848"
+  integrity sha512-qLsCBztR+5XJUiUdx7nSyMdv8KoMuW+9DqFSbo5GqsUsYZWVvGm1o9oKGMvSP/T+EHk9xMWNgnA6rpbBhxhTkQ==
+
 "@types/sockjs@^0.3.33":
   version "0.3.36"
   resolved "https://registry.yarnpkg.com/@types/sockjs/-/sockjs-0.3.36.tgz#ce322cf07bcc119d4cbf7f88954f3a3bd0f67535"
