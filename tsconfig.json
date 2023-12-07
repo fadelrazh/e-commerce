@@ -24,6 +24,6 @@
     ]
   },
   "include": [
-    "src/**/*.ts", "src/**/*.tsx", "src/utils/service-worker.js"
+    "src/**/*.ts", "src/**/*.tsx", "src/utils/service-worker.tsx"
   ]
 }

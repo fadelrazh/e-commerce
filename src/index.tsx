@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import * as serviceWorker from './utils/service-worker';  // Sesuaikan path jika diperlukan
-import reportWebVitals from './utils/reportWebVitals';
+import * as serviceWorker from './services/utils/service-worker';  // Sesuaikan path jika diperlukan
+import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
